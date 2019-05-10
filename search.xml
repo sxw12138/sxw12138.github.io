@@ -1,74 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>导数与微分</title>
-      <link href="/2019/05/10/%E5%AF%BC%E6%95%B0%E4%B8%8E%E5%BE%AE%E5%88%86/"/>
-      <url>/2019/05/10/%E5%AF%BC%E6%95%B0%E4%B8%8E%E5%BE%AE%E5%88%86/</url>
-      
-        <content type="html"><![CDATA[<p>$\epsilon$</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title><![CDATA[导数与微分]]></title>
+    <url>%2F2019%2F05%2F10%2F%E5%AF%BC%E6%95%B0%E4%B8%8E%E5%BE%AE%E5%88%86%2F</url>
+    <content type="text"><![CDATA[$\epsilon$]]></content>
       <categories>
-          
-          <category> 考研数学 </category>
-          
+        <category>考研数学</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 数学 </tag>
-            
-            <tag> 考研 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>极限与连续</title>
-      <link href="/2019/05/10/%E6%9E%81%E9%99%90%E4%B8%8E%E8%BF%9E%E7%BB%AD/"/>
-      <url>/2019/05/10/%E6%9E%81%E9%99%90%E4%B8%8E%E8%BF%9E%E7%BB%AD/</url>
-      
-        <content type="html"><![CDATA[<h1 id="极限与连续"><a href="#极限与连续" class="headerlink" title="极限与连续"></a>极限与连续</h1><p>摘要：极限 连续 无穷小 无穷大 </p><a id="more"></a><h2 id="极限的定义"><a href="#极限的定义" class="headerlink" title="极限的定义"></a>极限的定义</h2><ul><li><p>数列的极限</p><p>$\epsilon-N$  一个       （无穷极限）</p></li><li><p>趋于一点的函数极限</p><p>$\epsilon-\delta$    三个 （双侧极限、左极限、右极限）</p></li><li><p>趋于无穷的函数极限</p><p>$\epsilon-N$    三个   （双侧无穷、负无穷、正无穷）</p><h2 id="极限的性质"><a href="#极限的性质" class="headerlink" title="极限的性质"></a>极限的性质</h2></li><li>唯一性</li><li>保号性<br>1.极限＞0，函数（数列）局部＞0<br>2.函数（数列）局部≤0，极限≤0 （可逆命题）</li><li>局部有界性</li><li>列与子列<h2 id="极限的存在性准则"><a href="#极限的存在性准则" class="headerlink" title="极限的存在性准则"></a>极限的存在性准则</h2></li><li>夹逼定理（迫敛定理）<br>函数、数列都能用</li><li>单调有界准则<br>数列能用、函数的单侧极限能用</li><li>柯西存在准则<br>数列极限（差值无穷小）<h2 id="无穷小"><a href="#无穷小" class="headerlink" title="无穷小"></a>无穷小</h2></li><li>常见等价无穷小<br><img src="https://user-images.githubusercontent.com/41136872/57547459-1e75ce80-7391-11e9-98e7-9de9d93f079a.png" alt="常见等价无穷小"></li></ul><h2 id="常见麦克劳林公式"><a href="#常见麦克劳林公式" class="headerlink" title="常见麦克劳林公式"></a>常见麦克劳林公式</h2><p><img src="https://user-images.githubusercontent.com/41136872/57546993-46186700-7390-11e9-833e-d90126cb1e6a.png" alt></p><h2 id="重要极限"><a href="#重要极限" class="headerlink" title="重要极限"></a>重要极限</h2><p><img src="https://user-images.githubusercontent.com/41136872/57547320-deaee700-7390-11e9-8c85-de7f22c134e9.png" alt></p><h2 id="连续与间断"><a href="#连续与间断" class="headerlink" title="连续与间断"></a>连续与间断</h2><ul><li><p>点连续<br>$\lim \limits _{x\to a}=f(a)$</p></li><li><p>闭区间连续<br>1.在（a,b）区间连续<br>2.$\lim \limits_{x \to a^+  }f(x)=f(a) $<br>3.$\lim \limits_{x \to b^-  }f(x)=f(a) $</p></li><li><p>绝对值不改变连续性<br>$\epsilon -\delta$语言可以证明<br>反之不一定成立</p></li><li><p>间断<br>第一类间断：$f(a-0)与f(a+0)$存在<br> 1.$f(a-0)=f(a+0)$ 可去间断点<br> 2.$f(a-0)\neq f(a+0) $跳跃间断点<br>第二类间断：$f(a-0)与f(a+0$)至少有一个不存在</p></li><li><p>闭区间连续函数常用定理<br>最值定理<br>有界定理<br>零点定理<br>介值定理</p></li><li><p>不定型极限</p><p>基本不定型：$\frac{o}{o}$,$1^\infty$<br>其他不定型：$\frac{\infty}{\infty}$,$o\cdot \infty$ ,$\infty-\infty$,$\infty^o$,$o^o$</p></li></ul>]]></content>
-      
-      
+      <tags>
+        <tag>数学</tag>
+        <tag>考研</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[极限与连续]]></title>
+    <url>%2F2019%2F05%2F10%2F%E6%9E%81%E9%99%90%E4%B8%8E%E8%BF%9E%E7%BB%AD%2F</url>
+    <content type="text"><![CDATA[极限与连续摘要：极限 连续 无穷小 无穷大 极限的定义 数列的极限 $\epsilon-N$ 一个 （无穷极限） 趋于一点的函数极限 $\epsilon-\delta$ 三个 （双侧极限、左极限、右极限） 趋于无穷的函数极限 $\epsilon-N$ 三个 （双侧无穷、负无穷、正无穷） 极限的性质 唯一性 保号性1.极限＞0，函数（数列）局部＞02.函数（数列）局部≤0，极限≤0 （可逆命题） 局部有界性 列与子列极限的存在性准则 夹逼定理（迫敛定理）函数、数列都能用 单调有界准则数列能用、函数的单侧极限能用 柯西存在准则数列极限（差值无穷小）无穷小 常见等价无穷小 常见麦克劳林公式 重要极限 连续与间断 点连续$\lim \limits _{x\to a}=f(a)$ 闭区间连续1.在（a,b）区间连续2.$\lim \limits_{x \to a^+ }f(x)=f(a) $3.$\lim \limits_{x \to b^- }f(x)=f(a) $ 绝对值不改变连续性$\epsilon -\delta$语言可以证明反之不一定成立 间断第一类间断：$f(a-0)与f(a+0)$存在 1.$f(a-0)=f(a+0)$ 可去间断点 2.$f(a-0)\neq f(a+0) $跳跃间断点第二类间断：$f(a-0)与f(a+0$)至少有一个不存在 闭区间连续函数常用定理最值定理有界定理零点定理介值定理 不定型极限 基本不定型：$\frac{o}{o}$,$1^\infty$其他不定型：$\frac{\infty}{\infty}$,$o\cdot \infty$ ,$\infty-\infty$,$\infty^o$,$o^o$]]></content>
       <categories>
-          
-          <category> 考研数学 </category>
-          
+        <category>考研数学</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 数学 </tag>
-            
-            <tag> 考研 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2019/05/09/hello-world/"/>
-      <url>/2019/05/09/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>数学</tag>
+        <tag>考研</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F05%2F09%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
 </search>
